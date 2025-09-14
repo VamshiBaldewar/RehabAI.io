@@ -23,6 +23,11 @@ RehabAI+ is an innovative web application that combines computer vision, machine
 - **Progress Monitoring**: Detailed session analytics and trend analysis
 - **Appointment Management**: Set availability and manage patient appointments
 
+
+## 🎥DEMO
+
+-**LINK** : https://drive.google.com/file/d/1o78-fkagSYAkYzGMdBE4foXlBZbjUfdl/view?usp=sharing
+
 ## 🛠️ Technology Stack
 
 ### Frontend
